@@ -1,0 +1,3 @@
+# mailchimpheroku
+
+email list container
